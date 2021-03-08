@@ -3,7 +3,11 @@
 .header {
 	border: 1px solid gray;
 	padding: 15px;
-	border-radius: 0px 50px 0px 0px;
+	border-radius: 5px 50px 5px 5px;
 	background-color: gray;
 }
-
+.header p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 36px;
+	color: white;
+}
