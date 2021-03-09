@@ -1,3 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-.parallax {background-image: "https://cdn.pixabay.com/photo/2021/02/01/20/16/yachts-5971866_1280.jpg"; min-height: 500px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;}
+.parallax1 {background-image: url("https://cdn.pixabay.com/photo/2021/02/01/20/16/yachts-5971866_1280.jpg"); min-height: 500px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;}
+.parallax2 {background-image: url("https://cdn.pixabay.com/photo/2021/03/03/07/09/background-6064645_1280.jpg"); min-height: 500px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;}
+
