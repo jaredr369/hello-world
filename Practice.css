@@ -1,13 +1,3 @@
 @charset "UTF-8";
 /* CSS Document */
-.header {
-	border: 1px solid gray;
-	padding: 15px;
-	border-radius: 5px 50px 5px 5px;
-	background-color: gray;
-}
-.header p {
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	font-size: 36px;
-	color: white;
-}
+.parallax {background-image: "https://cdn.pixabay.com/photo/2021/02/01/20/16/yachts-5971866_1280.jpg"; min-height: 500px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;}
